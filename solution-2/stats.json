@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "test-1",
+      "throughput": 100,
+      "AvgResponseTime": 555,
+      "P90ile": 900,
+      "Max": 1100
+    },
+    {
+      "name": "test-2",
+      "throughput": 80,
+      "AvgResponseTime": 655,
+      "P90ile": 700,
+      "Max": 850
+    },
+    {
+      "name": "test-3",
+      "throughput": 120,
+      "AvgResponseTime": 255,
+      "P90ile": 800,
+      "Max": 850
+    },
+    {
+      "name": "test-4",
+      "throughput": 120,
+      "AvgResponseTime": 255,
+      "P90ile": 800,
+      "Max": 1100
+    },
+    {
+      "name": "test-5",
+      "throughput": 120,
+      "AvgResponseTime": 755,
+      "P90ile": 1000,
+      "Max": 1200
+    }
+  ]
+}
